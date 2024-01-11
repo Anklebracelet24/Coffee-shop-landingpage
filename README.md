@@ -9,3 +9,5 @@ The main feature of this website are:
 3. Menu, products, review/testimonial and blogs/news card section using css grid
 4. Contact form section using css grid.
 5. Animation Navbar and header section with GSAP
+
+![alt text](https://github.com/Anklebracelet24/Coffee-shop-landingpage/blob/main/images/ss.png)
